@@ -38,8 +38,6 @@ Each script is self-contained and typically corresponds to a key topic or lesson
 pip install opencv-python
 ```
 
-Some scripts (e.g., camera or video capture) may require a webcam or video file input.
-
 ## Notes
 
 - This repository is for **Educational and Non-Commercial** use.  
