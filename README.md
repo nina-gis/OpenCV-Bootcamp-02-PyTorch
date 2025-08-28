@@ -6,10 +6,21 @@ The materials were originally available as **Google Colab** notebooks and have b
 
 ## About
 
-These scripts demonstrate foundational Computer Vision techniques using OpenCV, including:
+These scripts demonstrate foundational Computer Vision techniques using OpenCV and PyTorch, including:
 
-- ...
-- ...
+- PyTorch basics
+- Tensors and operations with them
+- Backpropagation and Torch Autograd
+- Working with Multi Layer Perceptron from scratch
+- Working with Convolutional Neural Networks from scratch
+- Working with pre-trained classifications and Torch Vision
+- Image classification with Transfer Learning
+- Image classification with Fine Tuning
+- Semantic segmentation
+- Instance segmentation
+- Object detection
+- Faster R-CNNs and Mask R-CNNs
+- YOLO (You Only Look Once) object detection
 
 The content in this Repository is **Not Original**, and belongs to the public course resources to provide a consolidated, offline-friendly version for learning and experimentation.
 
