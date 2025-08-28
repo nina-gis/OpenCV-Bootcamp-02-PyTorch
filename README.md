@@ -19,9 +19,15 @@ Each script is self-contained and typically corresponds to a key topic or lesson
 
 ```
 .
-├── 01_.ipynb
-├── 02_.ipynb
-├── 03_.ipynb
+├── 01_PyTorch_Basics.ipynb
+├── 02_Autograd_and_Backpropagation.ipynb
+├── 03_Multi_Layer_Perceptron_MNIST.ipynb
+├── 04_Convolutional_Neural_Networks.ipynb
+├── 05_TorchVision_Pre_Trained_Models.ipynb
+├── 06_TorchVision_Transfer_Learning.ipynb
+├── 07_TorchVision_Fine_Tuning.ipynb
+├── 08_Semantic_Segmentation.ipynb
+├── 09_Object_Detection_with_R-CNN.ipynb
 └── README.md
 ```
 
