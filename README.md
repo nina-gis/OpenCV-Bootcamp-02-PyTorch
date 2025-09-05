@@ -39,6 +39,8 @@ Each script is self-contained and typically corresponds to a key topic or lesson
 ├── 07_TorchVision_Fine_Tuning.ipynb
 ├── 08_Semantic_Segmentation.ipynb
 ├── 09_Object_Detection_with_R-CNN.ipynb
+├── 10_Instance_Segmentation_with_R-CNN.ipynb
+├── 11_Object_Detection_with_YOLO.ipynb
 └── README.md
 ```
 
